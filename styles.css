@@ -100,6 +100,25 @@ header {
     background-color: #77A8BB;
 }
 
+/* Call to Action Button Styling */
+
+.cta-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+}
+
+.button-text {
+    text-align: center;
+    line-height: 1.3;
+}
+
+.button-icon {
+    height: 30px;
+    width: auto;
+}
+
 /* -------------------------
    Right Side
 --------------------------*/
